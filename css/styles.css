@@ -37,7 +37,8 @@ nav a:hover{
 }
 
 .flex-item {
-    background-color: purple;
+    background-color: #eafffa;
+    color:  #004d3b;
     width: 30%;
     margin: 1em;
     text-align: center;
