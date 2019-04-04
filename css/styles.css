@@ -1,0 +1,70 @@
+ *, *:before, *:after {
+    box-sizing: border-box
+} 
+
+body {
+    background-color: #007a5e;
+}
+
+nav {
+    display: flex;
+    background-color: #004d3b;
+    width: 100%;
+    justify-content: center;
+    padding: .2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    margin: 2em 1em 0px 1em;
+    color: #b8ffee;
+}
+
+nav a:hover{
+    color: white !important;
+}
+
+.img-playbill {
+    width: 100%;
+    height: auto;
+    overflow:hidden;
+}
+
+.flex-container {
+    display: flex;
+    width: 100%;
+    background-color: #009b77;
+}
+
+main {
+    flex: 2;
+    margin: 1em;
+}
+
+aside {
+    flex: 1;
+    margin: 1em;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer a {
+    color: goldenrod;
+}
+
+h1, h2, h3 {
+    color: #eafffa;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.wrapper {
+    background-color: #70ffde;
+}
