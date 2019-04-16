@@ -1,1 +1,3 @@
-# flexbox-wizard-of-oz
+Wizard of Oz
+
+Using flexbox styling in class
